@@ -2,6 +2,4 @@
 number = input('수를 입력하세요:')
 
 number = int(number)
-
-print(number)
 print(number)
